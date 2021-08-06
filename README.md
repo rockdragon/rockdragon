@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Rockdragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockdragon&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockdragon)](https://github.com/anuraghazra/github-readme-stats)
