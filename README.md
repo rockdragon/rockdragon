@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![My Wakatime Stats](https://vercel.com/rockdragons-projects/api/wakatime?username=rockdragon)](https://wakatime.com/@rockdragon)
-![Badges](https://wakatime.com/badge/user/xxxxx.svg)
+### ⏳ Weekly Development Breakdown
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rockdragon)
