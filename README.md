@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/xxxxxxx.svg)](https://wakatime.com/@rockdragon)
