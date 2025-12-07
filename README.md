@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/xxxxxxx.svg)](https://wakatime.com/@rockdragon)
+[![My Wakatime Stats](https://vercel.com/rockdragons-projects/api/wakatime?username=rockdragon)](https://wakatime.com/@rockdragon)
+![Badges](https://wakatime.com/badge/user/xxxxx.svg)
