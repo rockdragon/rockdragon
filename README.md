@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### ⏳ Weekly Development Breakdown
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rockdragon)
